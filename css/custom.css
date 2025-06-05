@@ -1,0 +1,51 @@
+/* ==== Global Background Color ==== */
+body {
+  background-color: #f5f5dc;
+}
+
+/* ==== Start Button Custom Style ==== */
+.btn-start {
+  background-color: #af332a;
+  color: #fff;
+  border: none;
+}
+.btn-start:hover {
+  background-color: #8e281f;
+}
+
+/* ==== Progress Bar ==== */
+.progress-bar {
+  background-color: #567a5f !important;
+}
+
+/* ==== Zustimmung (Grün) ==== */
+.bg-accept,
+.btn-accept,
+.alert-accept {
+  background-color: #04471c !important;
+  color: #fff;
+}
+
+/* ==== Neutral (Gelb) ==== */
+.bg-neutral,
+.btn-neutral,
+.alert-neutral {
+  background-color: #b0aa7e !important;
+  color: #212529;
+}
+
+/* ==== Ablehnung (Rot) ==== */
+.bg-decline,
+.btn-decline,
+.alert-decline {
+  background-color: #c72213 !important;
+  color: #fff;
+}
+
+/* ==== Doppelte Gewichtung ==== */
+.double-weighted,
+.double-weighted-badge {
+  background-color: #e6b400 !important;
+  color: #212529;
+  font-weight: bold;
+}
