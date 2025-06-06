@@ -1,16 +1,16 @@
 /* ==== Hintergrundfarbe der Seite ==== */
 body {
-  background-color: #f5f5dc;
+  background-color: #DED1B6;
 }
 
 /* ==== Start-Button ==== */
 .btn-start {
-  background-color: #af332a !important;
+  background-color: #9d3306 !important;
   color: #fff !important;
   border: none;
 }
 .btn-start:hover {
-  background-color: #8e281f !important;
+  background-color: #802905 !important;
 }
 
 /* ==== Fortschrittsbalken ==== */
@@ -48,4 +48,11 @@ body {
   background-color: #e6b400 !important;
   color: #212529 !important;
   font-weight: bold;
+}
+
+/* ==== Graue Box hinter dem Logo (vermutlich ein Header oder Container) ==== */
+.logo-background,
+.header-background,
+.logo-container {
+  background-color: #9D825D !important;
 }
