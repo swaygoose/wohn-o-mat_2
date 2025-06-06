@@ -94,18 +94,18 @@ body {
   background-color: #d2c09b !important;
 }
 
-/* ==== Badges für Bewertung ==== */
-span.badge.badge-success {
+/* ==== Badges für Bewertung (HTML Klassen direkt) ==== */
+.badge.badge-success {
   background-color: #04471c !important;
   color: #fff !important;
 }
 
-span.badge.badge-warning {
+.badge.badge-warning {
   background-color: #b0aa7e !important;
   color: #212529 !important;
 }
 
-span.badge.badge-danger {
+.badge.badge-danger {
   background-color: #c72213 !important;
   color: #fff !important;
-} 
+}
