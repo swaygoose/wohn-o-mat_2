@@ -9,8 +9,10 @@ body {
   color: #fff !important;
   border: none;
 }
-.btn-start:hover {
+.btn-start:hover,
+.btn-start:focus {
   background-color: #802905 !important;
+  box-shadow: 0 0 0 0.25rem rgba(157, 51, 6, 0.4);
 }
 
 /* ==== Fortschrittsbalken ==== */
@@ -25,6 +27,11 @@ body {
   background-color: #04471c !important;
   color: #fff !important;
 }
+.btn-success:hover,
+.btn-success:focus {
+  background-color: #033516 !important;
+  box-shadow: 0 0 0 0.25rem rgba(4, 71, 28, 0.4);
+}
 
 /* ==== Neutral (Bootstrap: warning) ==== */
 .btn-warning,
@@ -33,6 +40,11 @@ body {
   background-color: #b0aa7e !important;
   color: #212529 !important;
 }
+.btn-warning:hover,
+.btn-warning:focus {
+  background-color: #9f996f !important;
+  box-shadow: 0 0 0 0.25rem rgba(176, 170, 126, 0.4);
+}
 
 /* ==== Ablehnung (Bootstrap: danger) ==== */
 .btn-danger,
@@ -40,6 +52,11 @@ body {
 .alert-danger {
   background-color: #c72213 !important;
   color: #fff !important;
+}
+.btn-danger:hover,
+.btn-danger:focus {
+  background-color: #a51b10 !important;
+  box-shadow: 0 0 0 0.25rem rgba(199, 34, 19, 0.4);
 }
 
 /* ==== Doppelte Gewichtung ==== */
@@ -50,9 +67,32 @@ body {
   font-weight: bold;
 }
 
-/* ==== Graue Box hinter dem Logo (vermutlich ein Header oder Container) ==== */
-.logo-background,
-.header-background,
-.logo-container {
-  background-color: #9D825D !important;
+/* ==== Bewertungen in der Auswertung ==== */
+.result-user-choice {
+  background-color: #04471c !important;
+  color: #fff !important;
+}
+.result-neutral {
+  background-color: #b0aa7e !important;
+  color: #212529 !important;
+}
+.result-decline {
+  background-color: #c72213 !important;
+  color: #fff !important;
+}
+.result-double-weighted {
+  background-color: #e6b400 !important;
+  color: #212529 !important;
+  font-weight: bold;
+}
+
+/* ==== Box hinter dem Logo ==== */
+/* Falls diese Klassen nicht zutreffen, fügen wir mehr generische Strukturklassen hinzu */
+.header,
+.hero,
+.intro,
+.page-header,
+.logo-wrapper,
+.top-container {
+  background-color: #d2c09b !important;
 }
