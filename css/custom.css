@@ -3,14 +3,14 @@ body {
   background-color: #DED1B6;
 }
 
-/* ==== Start-Button ==== */
-.btn-start {
+/* ==== Start-Button (mit id) ==== */
+#btn-start {
   background-color: #9d3306 !important;
   color: #fff !important;
-  border: none;
+  border: 2px solid #fff !important;
 }
-.btn-start:hover,
-.btn-start:focus {
+#btn-start:hover,
+#btn-start:focus {
   background-color: #802905 !important;
   box-shadow: 0 0 0 0.25rem rgba(157, 51, 6, 0.4);
 }
@@ -26,6 +26,7 @@ body {
 .alert-success {
   background-color: #04471c !important;
   color: #fff !important;
+  border: 2px solid #fff !important;
 }
 .btn-success:hover,
 .btn-success:focus {
@@ -39,6 +40,7 @@ body {
 .alert-warning {
   background-color: #b0aa7e !important;
   color: #212529 !important;
+  border: 2px solid #fff !important;
 }
 .btn-warning:hover,
 .btn-warning:focus {
@@ -52,6 +54,7 @@ body {
 .alert-danger {
   background-color: #c72213 !important;
   color: #fff !important;
+  border: 2px solid #fff !important;
 }
 .btn-danger:hover,
 .btn-danger:focus {
@@ -86,13 +89,7 @@ body {
   font-weight: bold;
 }
 
-/* ==== Box hinter dem Logo ==== */
-/* Falls diese Klassen nicht zutreffen, fügen wir mehr generische Strukturklassen hinzu */
-.header,
-.hero,
-.intro,
-.page-header,
-.logo-wrapper,
-.top-container {
+/* ==== Box hinter dem Logo (.jumbotron) ==== */
+.jumbotron {
   background-color: #d2c09b !important;
 }
