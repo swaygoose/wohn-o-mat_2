@@ -23,8 +23,7 @@ body {
 /* ==== Zustimmung (Bootstrap: success) ==== */
 .btn-success,
 .bg-success,
-.alert-success,
-.badge-success {
+.alert-success {
   background-color: #04471c !important;
   color: #fff !important;
   border: 2px solid #fff !important;
@@ -38,8 +37,7 @@ body {
 /* ==== Neutral (Bootstrap: warning) ==== */
 .btn-warning,
 .bg-warning,
-.alert-warning,
-.badge-warning {
+.alert-warning {
   background-color: #b0aa7e !important;
   color: #212529 !important;
   border: 2px solid #fff !important;
@@ -53,8 +51,7 @@ body {
 /* ==== Ablehnung (Bootstrap: danger) ==== */
 .btn-danger,
 .bg-danger,
-.alert-danger,
-.badge-danger {
+.alert-danger {
   background-color: #c72213 !important;
   color: #fff !important;
   border: 2px solid #fff !important;
@@ -96,3 +93,19 @@ body {
 .jumbotron {
   background-color: #d2c09b !important;
 }
+
+/* ==== Badges für Bewertung ==== */
+span.badge.badge-success {
+  background-color: #04471c !important;
+  color: #fff !important;
+}
+
+span.badge.badge-warning {
+  background-color: #b0aa7e !important;
+  color: #212529 !important;
+}
+
+span.badge.badge-danger {
+  background-color: #c72213 !important;
+  color: #fff !important;
+} 
