@@ -17,49 +17,49 @@ body {
 
 /* ==== Fortschrittsbalken ==== */
 .progress-bar {
-  background-color: #567a5f !important;
+  background-color: #559E71 !important;
 }
 
 /* ==== Zustimmung (Bootstrap: success) ==== */
 .btn-success,
 .bg-success,
 .alert-success {
-  background-color: #04471c !important;
+  background-color: #559E71 !important;
   color: #fff !important;
   border: 2px solid #fff !important;
 }
 .btn-success:hover,
 .btn-success:focus {
-  background-color: #033516 !important;
-  box-shadow: 0 0 0 0.25rem rgba(4, 71, 28, 0.4);
+  background-color: #417a58 !important;
+  box-shadow: 0 0 0 0.25rem rgba(85, 158, 113, 0.4);
 }
 
 /* ==== Neutral (Bootstrap: warning) ==== */
 .btn-warning,
 .bg-warning,
 .alert-warning {
-  background-color: #b0aa7e !important;
+  background-color: #D2E3C1 !important;
   color: #212529 !important;
   border: 2px solid #fff !important;
 }
 .btn-warning:hover,
 .btn-warning:focus {
-  background-color: #9f996f !important;
-  box-shadow: 0 0 0 0.25rem rgba(176, 170, 126, 0.4);
+  background-color: #c3d5b2 !important;
+  box-shadow: 0 0 0 0.25rem rgba(210, 227, 193, 0.4);
 }
 
 /* ==== Ablehnung (Bootstrap: danger) ==== */
 .btn-danger,
 .bg-danger,
 .alert-danger {
-  background-color: #c72213 !important;
+  background-color: #B77980 !important;
   color: #fff !important;
   border: 2px solid #fff !important;
 }
 .btn-danger:hover,
 .btn-danger:focus {
-  background-color: #a51b10 !important;
-  box-shadow: 0 0 0 0.25rem rgba(199, 34, 19, 0.4);
+  background-color: #a5656d !important;
+  box-shadow: 0 0 0 0.25rem rgba(183, 121, 128, 0.4);
 }
 
 /* ==== Doppelte Gewichtung ==== */
@@ -72,15 +72,15 @@ body {
 
 /* ==== Bewertungen in der Auswertung ==== */
 .result-user-choice {
-  background-color: #04471c !important;
+  background-color: #559E71 !important;
   color: #fff !important;
 }
 .result-neutral {
-  background-color: #b0aa7e !important;
+  background-color: #D2E3C1 !important;
   color: #212529 !important;
 }
 .result-decline {
-  background-color: #c72213 !important;
+  background-color: #B77980 !important;
   color: #fff !important;
 }
 .result-double-weighted {
@@ -91,21 +91,22 @@ body {
 
 /* ==== Box hinter dem Logo (.jumbotron) ==== */
 .jumbotron {
-  background-color: #d2c09b !important;
+  background-color: transparent !important;
+  border: 5px solid #559E71 !important;
 }
 
 /* ==== Badges für Bewertung (HTML Klassen direkt) ==== */
 .badge.badge-success {
-  background-color: #04471c !important;
+  background-color: #559E71 !important;
   color: #fff !important;
 }
 
 .badge.badge-warning {
-  background-color: #b0aa7e !important;
+  background-color: #D2E3C1 !important;
   color: #212529 !important;
 }
 
 .badge.badge-danger {
-  background-color: #c72213 !important;
+  background-color: #B77980 !important;
   color: #fff !important;
-}
+} 
