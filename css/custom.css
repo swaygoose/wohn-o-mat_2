@@ -5,14 +5,14 @@ body {
 
 /* ==== Start-Button (mit id) ==== */
 #btn-start {
-  background-color: #9d3306 !important;
+  background-color: #B77980 !important;
   color: #fff !important;
   border: 2px solid #fff !important;
 }
 #btn-start:hover,
 #btn-start:focus {
-  background-color: #802905 !important;
-  box-shadow: 0 0 0 0.25rem rgba(157, 51, 6, 0.4);
+  background-color: #a5656d !important;
+  box-shadow: 0 0 0 0.25rem rgba(183, 121, 128, 0.4);
 }
 
 /* ==== Fortschrittsbalken ==== */
@@ -109,4 +109,13 @@ body {
 .badge.badge-danger {
   background-color: #B77980 !important;
   color: #fff !important;
+}
+
+/* ==== Doppelte Gewichtung: Button und Ergebnisbereich (btn-info, bg-info) ==== */
+.btn-info,
+.bg-info,
+.result-detail-footer.bg-info {
+  background-color: #B77925 !important;
+  color: #fff !important;
+  border: 2px solid #fff !important;
 } 
