@@ -145,6 +145,6 @@ h4.result-detail-title,
   text-overflow: ellipsis;
 } 
 
-.result-detail {
+.card.result-detail-card {
   word-wrap: break-word;
 }
