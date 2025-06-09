@@ -144,3 +144,7 @@ h4.result-detail-title,
   overflow: hidden;
   text-overflow: ellipsis;
 } 
+
+.result-detail {
+  word-wrap: break-word;
+}
