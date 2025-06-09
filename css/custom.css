@@ -129,4 +129,11 @@ body {
 h4.result-detail-title,
 .result-detail-title {
   display: none !important;
+}
+
+/* ==== Ergebnis: Text über Progressbar anordnen ==== */
+.col-12.col-md,
+.col-12.col-md-10 {
+  display: block;
+  width: 100%;
 } 
