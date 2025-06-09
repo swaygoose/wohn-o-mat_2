@@ -138,8 +138,8 @@ h4.result-detail-title,
   width: 100%;
 }
 
-/* ==== Keine Zeilenumbrüche in Karten ==== */
-.card {
+/* ==== Keine Zeilenumbrüche in card-body ==== */
+.card-body {
   white-space: nowrap !important;
   overflow: hidden;
   text-overflow: ellipsis;
