@@ -136,4 +136,11 @@ h4.result-detail-title,
 .col-12.col-md-10 {
   display: block;
   width: 100%;
+}
+
+/* ==== Keine Zeilenumbrüche in Karten ==== */
+.card {
+  white-space: nowrap !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
 } 
