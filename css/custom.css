@@ -122,22 +122,38 @@ body {
 
 /* ==== Ergebnisdarstellung: Karten-Layout-Anpassung ==== */
 .card-body {
-  width: 100%;
+  width: 100% !important;
   box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
 }
 
 .card-header.result-detail-header {
-  width: 100%;
+  width: 100% !important;
   box-sizing: border-box;
 }
 
 /* ==== Ergebnisdarstellung: Spalte für Ergebnisbeschreibung ==== */
 .result-label.col-12.col-md {
-  min-width: 280px;
+  min-width: 300px;
+  max-width: 100%;
   margin-right: 1rem;
+  flex-shrink: 0;
 }
 
 /* ==== Ergebnisdarstellung: Balkenfarbe für "restliche" Punkte ==== */
 .remaining-progress-bar {
   background-color: rgba(0, 0, 0, 0.03) !important;
+}
+
+/* ==== Ergebnisdarstellung: Progress Container Anpassung ==== */
+.result-progress .progress {
+  flex: 1;
+  min-width: 0;
+}
+
+/* ==== Entferne "Ergebnis"-Überschrift (h4) ==== */
+h4.result-detail-title {
+  display: none !important;
 } 
