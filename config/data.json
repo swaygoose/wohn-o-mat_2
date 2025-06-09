@@ -44,35 +44,35 @@
 	"lists": {
 		"0": {
 			"name": "Mehrgenerationenwohnen",
-			"name_x": "MGWH"
+			"name_x": "Mehrgenerationenwohnen"
 		},
 		"1": {
 			"name": "Wohnprojekt mit WG-Charakter",
-			"name_x": "WG"
+			"name_x": "Wohnprojekt mit WG-Charakter"
 		},
 		"2": {
-			"name": "Clusterwohnung ",
-			"name_x": "CWHG"
+			"name": "Clusterwohnung",
+			"name_x": "Clusterwohnung"
 		},
 		"3": {
 			"name": "Betreutes Wohnen",
-			"name_x": "BW"
+			"name_x": "Betreutes Wohnen"
 		},
 		"4": {
 			"name": "Seniorenwohnung",
-			"name_x": "SW"
+			"name_x": "Seniorenwohnung"
 		},
 		"5": {
 			"name": "Barrierefreie Wohnung",
-			"name_x": "BFWHG"
+			"name_x": "Barrierefreie Wohnung"
 		},
 		"6": {
 			"name": "Tiny House",
-			"name_x": "TH"
+			"name_x": "Tiny House"
 		},
 		"7": {
 			"name": "Baugenossenschaft",
-			"name_x": "BAUG"
+			"name_x": "Baugenossenschaft"
 		}
 	},
 	"answers": {
