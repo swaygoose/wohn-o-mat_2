@@ -118,4 +118,26 @@ body {
   background-color: #B77925 !important;
   color: #fff !important;
   border: 2px solid #fff !important;
+}
+
+/* ==== Ergebnisdarstellung: Karten-Layout-Anpassung ==== */
+.card-body {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.card-header.result-detail-header {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* ==== Ergebnisdarstellung: Spalte für Ergebnisbeschreibung ==== */
+.result-label.col-12.col-md {
+  min-width: 280px;
+  margin-right: 1rem;
+}
+
+/* ==== Ergebnisdarstellung: Balkenfarbe für "restliche" Punkte ==== */
+.remaining-progress-bar {
+  background-color: rgba(0, 0, 0, 0.03) !important;
 } 
