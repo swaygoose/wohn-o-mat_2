@@ -6,38 +6,83 @@
 			"x": ""
 		},
 		"1": {
-			"l": "Ich finde, das Wichtigste beim Wohnen ist mein eigener Rückzugsbereich, beispielsweise mein Bad. ",
+			"l": "Ich finde, das Wichtigste beim Wohnen ist mein eigener Rückzugsbereich, außerdem möchte ich mein Bad nicht teilen.",
 			"s": "Bad",
 			"x": ""
 		},
 		"2": {
-			"l": "Ich kann mir vorstellen, wichtige Lebensbereiche, wie die Küche oder das Bad mit anderen Menschen zu teilen. ",
-			"s": "Bereitschaft zum Teilen",
+			"l": "Ich kann mir vorstellen, wichtige Lebensbereiche, wie die Küche oder das Bad, mit anderen Menschen zu teilen.",
+			"s": "Teilen",
 			"x": ""
 		},
 		"3": {
-			"l": "Ich bin bereit dazu, gemeinschaftliche Anlagen und Räume freiwillig und kostenlos zu pflegen und zu erhalten.",
-			"s": "Erhaltung der Gemeinschaftsbereiche",
+			"l": "Für den Alltag brauche ich nicht viel Platz. Habe ich Besuch, nutze ich mit ihm auch vorhandene Gemeinschaftsbereiche.",
+			"s": "Gemeinschaftsräume",
 			"x": ""
 		},
 		"4": {
-			"l": "Für den Alltag brauche ich nicht viel Platz. Habe ich Besuch, nutze ich mit ihm auch Gemeinschaftsbereiche.",
-			"s": "Platzbedürfnis",
+			"l": "Ich wünsche mir ein Zuhause, das auch Raum für gemeinschaftliche Aktivitäten bietet.",
+			"s": "Aktivitäten",
 			"x": ""
 		},
 		"5": {
-			"l": "Ich wünsche mir ein Zuhause, das auch Raum für gemeinschaftliche Aktivitäten bietet.",
-			"s": "Gemeinschaftliche Aktivitäten",
+			"l": "Ich habe Interesse daran, gemeinschaftliche Projekte (z. B. Garten, Werkstatt, Veranstaltungen) mitzugestalten.",
+			"s": "Gemeinschaftliche Projekte",
 			"x": ""
 		},
 		"6": {
-			"l": "Ich habe Interesse daran, gemeinschaftliche Projekte (z. B. Garten, Werkstatt, Veranstaltungen) mitzugestalten.",
-			"s": "Gestaltungsanspruch",
+			"l": "Ich möchte nicht mehrfach im Leben umziehen, sondern eine möglichst langfristige Lösung finden.",
+			"s": "Langfristige Lösung",
 			"x": ""
 		},
 		"7": {
-			"l": "Ich möchte nicht mehrfach im Leben umziehen müssen, sondern eine langfristige Lösung finden.",
-			"s": "Langfristige Lösung",
+			"l": "Mir ist ein enges, soziales Umfeld sehr wichtig.",
+			"s": "Soziales Umfeld",
+			"x": ""
+		},
+		"8": {
+			"l": "Mir ist es sehr wichtig, die Menschen, die um mich herum wohnen, zu kennen.",
+			"s": "Nachbarn",
+			"x": ""
+		},
+		"9": {
+			"l": "Mir ist wichtig, einen eigenen separaten Raum zu haben, in welchem ich meine Hobbies ausüben kann.",
+			"s": "Hobbies",
+			"x": ""
+		},
+		"10": {
+			"l": "Ich bin bereit bei einem etwaigen Umzug viele meiner Möbel nicht mitzunehmen.",
+			"s": "Umzug",
+			"x": ""
+		},
+		"11": {
+			"l": "Ich habe kein Problem damit, mit anderen Menschen, die nicht meine eigene Familie sind, zusammenzuwohnen.",
+			"s": "Mitbewohner*innen",
+			"x": ""
+		},
+		"12": {
+			"l": "Ich bin der Meinung, dass das Leben in Gemeinschaft eine große Bereicherung für mich ist.",
+			"s": "Gemeinschaftswohnen",
+			"x": ""
+		},
+		"13": {
+			"l": "Ich möchte mit Menschen verschiedenen Alters in einer Gemeinschaft wohnen.",
+			"s": "Altersstruktur",
+			"x": ""
+		},
+		"14": {
+			"l": "Ich habe kein Problem damit, mir z.B. Waschmaschine oder Auto mit anderen zu teilen.",
+			"s": "Teilen II",
+			"x": ""
+		},
+		"15": {
+			"l": "Ich bin auf alltägliche Hilfe im Haushalt angewiesen.",
+			"s": "Alltagshilfe",
+			"x": ""
+		},
+		"16": {
+			"l": "Mir ist es wichtig, dass Pflegepersonal im Haus ansässig ist.",
+			"s": "Pflege",
 			"x": ""
 		}
 	},
@@ -59,8 +104,8 @@
 			"name_x": "Betreutes Wohnen"
 		},
 		"4": {
-			"name": "Seniorenwohnung",
-			"name_x": "Seniorenwohnung"
+			"name": "Seniorenwohnung ",
+			"name_x": "Seniorenwohnung "
 		},
 		"5": {
 			"name": "Barrierefreie Wohnung",
@@ -71,8 +116,20 @@
 			"name_x": "Tiny House (Siedlung)"
 		},
 		"7": {
-			"name": "Baugenossenschaft",
-			"name_x": "Baugenossenschaft"
+			"name": "Projektbezogene Baugenossenschaft",
+			"name_x": "Projektbezogene Baugenossenschaft"
+		},
+		"8": {
+			"name": "Wohnen gegen Hilfe",
+			"name_x": "Wohnen gegen Hilfe"
+		},
+		"9": {
+			"name": "Einfamilienhaus",
+			"name_x": "Einfamilienhaus"
+		},
+		"10": {
+			"name": "Wohnung",
+			"name_x": "Wohnung"
 		}
 	},
 	"answers": {
@@ -86,15 +143,15 @@
 				"statement": ""
 			},
 			"2": {
-				"selection": "b",
-				"statement": ""
-			},
-			"3": {
 				"selection": "a",
 				"statement": ""
 			},
-			"4": {
+			"3": {
 				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
 				"statement": ""
 			},
 			"5": {
@@ -102,11 +159,47 @@
 				"statement": ""
 			},
 			"6": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"7": {
 				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "a",
+				"statement": ""
+			},
+			"16": {
+				"selection": "c",
 				"statement": ""
 			}
 		},
@@ -136,11 +229,47 @@
 				"statement": ""
 			},
 			"6": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
 				"selection": "b",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "a",
+				"statement": ""
+			},
+			"16": {
+				"selection": "c",
 				"statement": ""
 			}
 		},
@@ -170,17 +299,53 @@
 				"statement": ""
 			},
 			"6": {
-				"selection": "a",
+				"selection": "d",
 				"statement": ""
 			},
 			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
 				"selection": "b",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
+				"selection": "c",
 				"statement": ""
 			}
 		},
 		"3": {
 			"0": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"1": {
@@ -200,14 +365,50 @@
 				"statement": ""
 			},
 			"5": {
-				"selection": "b",
-				"statement": ""
-			},
-			"6": {
 				"selection": "c",
 				"statement": ""
 			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
 			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
 				"selection": "a",
 				"statement": ""
 			}
@@ -230,18 +431,54 @@
 				"statement": ""
 			},
 			"4": {
-				"selection": "b",
-				"statement": ""
-			},
-			"5": {
 				"selection": "a",
 				"statement": ""
 			},
-			"6": {
+			"5": {
 				"selection": "b",
 				"statement": ""
 			},
+			"6": {
+				"selection": "a",
+				"statement": ""
+			},
 			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "b",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
 				"selection": "a",
 				"statement": ""
 			}
@@ -260,7 +497,7 @@
 				"statement": ""
 			},
 			"3": {
-				"selection": "b",
+				"selection": "c",
 				"statement": ""
 			},
 			"4": {
@@ -272,17 +509,53 @@
 				"statement": ""
 			},
 			"6": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"7": {
-				"selection": "a",
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			},
+			"13": {
+				"selection": "b",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "c",
 				"statement": ""
 			}
 		},
 		"6": {
 			"0": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"1": {
@@ -294,22 +567,58 @@
 				"statement": ""
 			},
 			"3": {
-				"selection": "b",
-				"statement": ""
-			},
-			"4": {
 				"selection": "a",
 				"statement": ""
 			},
-			"5": {
+			"4": {
 				"selection": "c",
 				"statement": ""
 			},
-			"6": {
+			"5": {
 				"selection": "b",
 				"statement": ""
 			},
+			"6": {
+				"selection": "c",
+				"statement": ""
+			},
 			"7": {
+				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "c",
+				"statement": ""
+			},
+			"10": {
+				"selection": "a",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "b",
+				"statement": ""
+			},
+			"13": {
+				"selection": "b",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
 				"selection": "c",
 				"statement": ""
 			}
@@ -332,11 +641,151 @@
 				"statement": ""
 			},
 			"4": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"5": {
 				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "b",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "b",
+				"statement": ""
+			},
+			"14": {
+				"selection": "b",
+				"statement": ""
+			},
+			"15": {
+				"selection": "b",
+				"statement": ""
+			},
+			"16": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"8": {
+			"0": {
+				"selection": "c",
+				"statement": ""
+			},
+			"1": {
+				"selection": "b",
+				"statement": ""
+			},
+			"2": {
+				"selection": "a",
+				"statement": ""
+			},
+			"3": {
+				"selection": "a",
+				"statement": ""
+			},
+			"4": {
+				"selection": "a",
+				"statement": ""
+			},
+			"5": {
+				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "b",
+				"statement": ""
+			},
+			"7": {
+				"selection": "a",
+				"statement": ""
+			},
+			"8": {
+				"selection": "a",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": ""
+			},
+			"10": {
+				"selection": "b",
+				"statement": ""
+			},
+			"11": {
+				"selection": "a",
+				"statement": ""
+			},
+			"12": {
+				"selection": "a",
+				"statement": ""
+			},
+			"13": {
+				"selection": "a",
+				"statement": ""
+			},
+			"14": {
+				"selection": "a",
+				"statement": ""
+			},
+			"15": {
+				"selection": "a",
+				"statement": ""
+			},
+			"16": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"9": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "c",
+				"statement": ""
+			},
+			"3": {
+				"selection": "c",
+				"statement": ""
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
 				"statement": ""
 			},
 			"6": {
@@ -345,6 +794,112 @@
 			},
 			"7": {
 				"selection": "b",
+				"statement": ""
+			},
+			"8": {
+				"selection": "d",
+				"statement": ""
+			},
+			"9": {
+				"selection": "a",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			},
+			"13": {
+				"selection": "c",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "c",
+				"statement": ""
+			}
+		},
+		"10": {
+			"0": {
+				"selection": "a",
+				"statement": ""
+			},
+			"1": {
+				"selection": "a",
+				"statement": ""
+			},
+			"2": {
+				"selection": "c",
+				"statement": ""
+			},
+			"3": {
+				"selection": "b",
+				"statement": ""
+			},
+			"4": {
+				"selection": "c",
+				"statement": ""
+			},
+			"5": {
+				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "b",
+				"statement": ""
+			},
+			"7": {
+				"selection": "c",
+				"statement": ""
+			},
+			"8": {
+				"selection": "b",
+				"statement": ""
+			},
+			"9": {
+				"selection": "b",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
+				"statement": ""
+			},
+			"11": {
+				"selection": "c",
+				"statement": ""
+			},
+			"12": {
+				"selection": "c",
+				"statement": ""
+			},
+			"13": {
+				"selection": "b",
+				"statement": ""
+			},
+			"14": {
+				"selection": "c",
+				"statement": ""
+			},
+			"15": {
+				"selection": "c",
+				"statement": ""
+			},
+			"16": {
+				"selection": "c",
 				"statement": ""
 			}
 		}
