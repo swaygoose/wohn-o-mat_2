@@ -146,6 +146,7 @@ h4.result-detail-title,
 }
 
 /* ==== Ergebnis: Balkenfarbe in Ergebniskarten ==== */
-.result-progress .progress-bar {
+.result-progress .progress-bar,
+.progress-bar.main.progress-bar {
   background-color: #03045E !important;
-} 
+}
