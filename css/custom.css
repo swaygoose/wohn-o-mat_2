@@ -159,13 +159,11 @@ h4.result-detail-title,
   }
 }
 
-/* ==== Logo: Responsive Breite für display-4 text-center col-auto ==== */
-.display-4.text-center.col-auto {
+/* ==== Logo-Bild responsive machen ==== */
+.display-4.text-center.col-auto img {
   max-width: 100%;
-  width: auto;
   height: auto;
-  text-align: center;
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-  white-space: normal;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 } 
