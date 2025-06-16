@@ -149,3 +149,12 @@ h4.result-detail-title,
 .progress-bar.main.progress-bar {
   background-color: #03045E !important;
 }
+
+/* ==== Mobile: Zeilenumbruch in card-body wieder aktivieren ==== */
+@media (max-width: 768px) {
+  .card-body {
+    white-space: normal !important;
+    overflow: visible;
+    text-overflow: unset;
+  }
+}
