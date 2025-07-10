@@ -14,14 +14,14 @@ function () {
 
     this.page_title = "Wohn-o-Mat";
     this.qa_modal_title = "Fragen &amp; Antworten";
-    this.qa_modal_body = '<h4>Was ist die Idee des Projektes?</h4>\
-					<p>In Deutschland herrscht ein Wohnflächenmangel und die Baubranche kann den aktuellen Fehlbedarf nicht decken. Ein Grund für diese Entwicklung ist die steigende Wohnfläche pro Kopf. Ein Grund für eine steigende Wohnfläche können sogenannte "empty-nester" Haushalte sein, bei welchen die Kinder ausgezogen sind und meistens diese Paar weiterhin in Einfamilienhäusern wohnen, dies steigert den Wohnflächenverbrauch enorm. Aufgrund von aktuell fehlenden Beratungsangeboten im Bereich des Wohnens im Alter hat eine Gruppe Studenten der Technischen Hochschule Lübeck den Wohn-o-Mat konzipiert, um die Entscheidungsfindung bei einem anstehenden Umzug in Alter zu erleichtern und die verschiedenen Wohnformen zu präsentieren und näherzubringen.</p>\
+    this.qa_modal_body = '<h4>Wer steht eigentlich hinter dem Wohn-o-Mat?</h4>\
+					<p>Der Wohn-o-Mat wurde von einer Gruppe Studenten der Technischen Hochschule Lübeck konzipiert, um die Entscheidungsfindung bei einem anstehenden Umzug in Alter zu erleichtern und verschiedene Wohnformen zu präsentieren.</p>\
 \
-					<h4>Wie wurden die Thesen erarbeitet?</h4>\
-					<p>Durch die Auswertung von qualitativen Interviews wurde ein Pool an Bedürfnissen und Forderungen von bereits umgezogenen Menschen erarbeitet, aus welchem dann die Fragen und Thesen entworfen wurden.</p>\
+					<h4>Wer hat die Thesen erarbeitet?</h4>\
+					<p>Durch die Auswertung von qualitativen Interviews wurde ein Pool an Bedürfnissen und Forderungen von älteren, umziehenden Menschen erarbeitet, aus welchem dann die Fragen und Thesen entworfen wurden.</p>\
 \
-					<h4>Wie sind die Profile der Wohnformen entstanden?</h4>\
-					<p>Die Profile der Wohnformen wurden durch die Analyse von bestehenden Projekten in Deutschland gesammelt und mit Erfahrungen aus den Interviews untermalt. Sie sollen die Wohnformen möglichst real darstellen und wurden zudem nach den aktuellen Forderungen der Disziplin der Stadtplanung, wie geringe Flächenverbräuche oder symbiotische Organisationsformen bewertet.</p>\
+					<h4>Woher stammen Profile der Wohnformen</h4>\
+					<p>Die Profile der Wohnformen wurden durch die Analyse von bestehenden Projekten in Deutschland gesammelt und mit Erfahrungen aus den Interviews untermalt.</p>\
 \
 					<h4>Wie werden die Punkte berechnet?</h4>\
 					<p>Deine Antworten werden mit den vorgegebenen Profilen der Wohnformen verglichen.</p>\
@@ -50,7 +50,7 @@ function () {
     this.btn_qa_modal_close = "Schließen";
     this.swype_info_message_text = "Wische, um manuell zwischen Thesen zu wechseln";
     this.btn_swype_info_ok = "OK";
-    this.start_subtitle = "Finde heraus welche Wohnform zu dir passt!";
+    this.start_subtitle = "Finde raus welche Wohnform zu dir passst!";
     this.start_explanatory_text = "<p></p>\
 					<p></p>";
     this.btn_start = "Wohn-o-Mat starten!";

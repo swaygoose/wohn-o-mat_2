@@ -1,67 +1,67 @@
 {
 	"theses": {
 		"0": {
-			"l": "Ich lege bei meiner Wohnart einen hohen Wert auf Ungestörtheit.",
+			"l": "Ich lege bei meiner Wohnung einen hohen Wert auf ein ruhiges Umfeld.",
 			"s": "Ungestörtheit",
 			"x": ""
 		},
 		"1": {
-			"l": "Ich finde, das Wichtigste beim Wohnen ist mein eigener Rückzugsbereich, außerdem möchte ich mein Bad nicht teilen.",
-			"s": "Bad",
+			"l": "Ich finde, eines der wichtigsten Dinge beim Wohnen ist mein eigener Rückzugsbereich.",
+			"s": "Privatsphäre",
 			"x": ""
 		},
 		"2": {
-			"l": "Ich kann mir vorstellen, wichtige Lebensbereiche, wie die Küche oder das Bad, mit anderen Menschen zu teilen.",
-			"s": "Teilen",
-			"x": ""
-		},
-		"3": {
-			"l": "Für den Alltag brauche ich nicht viel Platz. Habe ich Besuch, nutze ich mit ihm auch vorhandene Gemeinschaftsbereiche.",
+			"l": "Ich selbst brauche wenig Platz im Alltag. Habe ich jedoch Besuch, möchte ich die Möglichkeit haben, weitere Räume zu nutzen.",
 			"s": "Gemeinschaftsräume",
 			"x": ""
 		},
-		"4": {
+		"3": {
 			"l": "Ich wünsche mir ein Zuhause, das auch Raum für gemeinschaftliche Aktivitäten bietet.",
 			"s": "Aktivitäten",
 			"x": ""
 		},
-		"5": {
+		"4": {
 			"l": "Ich habe Interesse daran, gemeinschaftliche Projekte (z. B. Garten, Werkstatt, Veranstaltungen) mitzugestalten.",
 			"s": "Gemeinschaftliche Projekte",
 			"x": ""
 		},
-		"6": {
+		"5": {
 			"l": "Ich möchte nicht mehrfach im Leben umziehen, sondern eine möglichst langfristige Lösung finden.",
 			"s": "Langfristige Lösung",
 			"x": ""
 		},
-		"7": {
-			"l": "Mir ist ein enges, soziales Umfeld sehr wichtig.",
+		"6": {
+			"l": "Ich will nicht nur für mich alleine wohnen, sondern Teil einer engen, sozialen Gemeinschaft sein. ",
 			"s": "Soziales Umfeld",
 			"x": ""
 		},
-		"8": {
-			"l": "Mir ist es sehr wichtig, die Menschen, die um mich herum wohnen, zu kennen.",
+		"7": {
+			"l": "Mir ist es wichtig, die Menschen, die um mich herum wohnen, zu kennen.",
 			"s": "Nachbarn",
 			"x": ""
 		},
-		"9": {
+		"8": {
 			"l": "Mir ist wichtig, einen eigenen separaten Raum zu haben, in welchem ich meine Hobbies ausüben kann.",
 			"s": "Hobbies",
 			"x": ""
 		},
-		"10": {
-			"l": "Ich bin bereit bei einem etwaigen Umzug viele meiner Möbel nicht mitzunehmen.",
+		"9": {
+			"l": "Ich bin bereit bei einem etwaigen Umzug vieles von meinem Besitz nicht mitzunehmen.",
 			"s": "Umzug",
 			"x": ""
 		},
+		"10": {
+			"l": "Ich kann mir vorstellen, wichtige Lebensbereiche wie das Badezimmer (aber nicht mein Schlafzimmer) in meiner Wohnung mit anderen Menschen zu teilen.",
+			"s": "Teilen",
+			"x": ""
+		},
 		"11": {
-			"l": "Ich habe kein Problem damit, mit anderen Menschen, die nicht meine eigene Familie sind, zusammenzuwohnen.",
-			"s": "Mitbewohner*innen",
+			"l": "Ich würde auch mit Menschen zusammen wohnen, die nicht meine eigene Familie sind.",
+			"s": "Mitbewohner:innen",
 			"x": ""
 		},
 		"12": {
-			"l": "Ich bin der Meinung, dass das Leben in Gemeinschaft eine große Bereicherung für mich ist.",
+			"l": "Ich bin der Meinung, dass das Leben in Gemeinschaft eine große Bereicherung für mich ist und darum in einer solchen leben.",
 			"s": "Gemeinschaftswohnen",
 			"x": ""
 		},
@@ -71,7 +71,7 @@
 			"x": ""
 		},
 		"14": {
-			"l": "Ich habe kein Problem damit, mir z.B. Waschmaschine oder Auto mit anderen zu teilen.",
+			"l": "Ich habe ein Problem damit, mir z.B. Waschmaschine oder Auto mit anderen zu teilen.",
 			"s": "Teilen II",
 			"x": ""
 		},
@@ -88,48 +88,48 @@
 	},
 	"lists": {
 		"0": {
-			"name": "Mehrgenerationenwohnen",
-			"name_x": "Mehrgenerationenwohnen"
+			"name": "Mehrgenerationswohnen",
+			"name_x": "<a href='https://swaygoose.github.io/wohn-o-mat-extended-version/details.html#Mehrgenerationenwohnen' style='color: black;'>Mehrgeneratioswohnen</a>"
 		},
 		"1": {
 			"name": "Wohnprojekt mit WG-Charakter",
-			"name_x": "Wohnprojekt mit WG-Charakter"
+			"name_x": "<a href='https://swaygoose.github.io/wohn-o-mat-extended-version/details.html#Wohnprojekt-mit-WG-Charakter' style='color: black;'>Wohnprojekt mit WG-Charakter</a>"
 		},
 		"2": {
 			"name": "Clusterwohnung",
-			"name_x": "Clusterwohnung"
+			"name_x": "<a href='https://swaygoose.github.io/wohn-o-mat-extended-version/details.html#Clusterwohnung' style='color: black;'>Clusterwohnung</a>"
 		},
 		"3": {
 			"name": "Betreutes Wohnen",
-			"name_x": "Betreutes Wohnen"
+			"name_x": "<a href='https://swaygoose.github.io/wohn-o-mat-extended-version/details.html#Betreutes-Wohnen' style='color: black;'>Betreutes Wohnen</a>"
 		},
 		"4": {
-			"name": "Seniorenwohnung ",
-			"name_x": "Seniorenwohnung "
+			"name": "Ambulante Betreute Senioren-WG",
+			"name_x": "<a href='https://swaygoose.github.io/wohn-o-mat-extended-version/details.html#Seniorenwohnung' style='color: black;'>Ambulante Betreute Senioren-WG</a>"
 		},
 		"5": {
 			"name": "Barrierefreie Wohnung",
-			"name_x": "Barrierefreie Wohnung"
+			"name_x": "<a href='https://swaygoose.github.io/wohn-o-mat-extended-version/details.html#Barrierefreie-Wohnung' style='color: black;'>Barrierefreie Wohnung</a>"
 		},
 		"6": {
 			"name": "Tiny House (Siedlung)",
-			"name_x": "Tiny House (Siedlung)"
+			"name_x": "<a href='https://swaygoose.github.io/wohn-o-mat-extended-version/details.html#Tiny-House-(Siedlung)' style='color: black;'>Tiny House (Siedlung)</a>"
 		},
 		"7": {
 			"name": "Projektbezogene Baugenossenschaft",
-			"name_x": "Projektbezogene Baugenossenschaft"
+			"name_x": "<a href='https://swaygoose.github.io/wohn-o-mat-extended-version/details.html#Projektbezogene-Baugenossenschaft' style='color: black;'>Projektbezogene Baugenossenschaft</a>"
 		},
 		"8": {
 			"name": "Wohnen gegen Hilfe",
-			"name_x": "Wohnen gegen Hilfe"
+			"name_x": "<a href='https://swaygoose.github.io/wohn-o-mat-extended-version/details.html#Wohnen-gegen-Hilfe' style='color: black;'>Wohnen gegen Hilfe</a>"
 		},
 		"9": {
 			"name": "Einfamilienhaus",
-			"name_x": "Einfamilienhaus"
+			"name_x": "<a href='https://swaygoose.github.io/wohn-o-mat-extended-version/details.html#Einfamilienhaus' style='color: black;'>Einfamilienhaus</a>"
 		},
 		"10": {
 			"name": "Eigene Wohnung",
-			"name_x": "Eigene Wohnung"
+			"name_x": "<a href='https://swaygoose.github.io/wohn-o-mat-extended-version/details.html#Einfamilienhaus' style='color: black;'>Eigene Wohnung</a>"
 		}
 	},
 	"answers": {
@@ -143,11 +143,11 @@
 				"statement": ""
 			},
 			"2": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"3": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"4": {
@@ -155,11 +155,11 @@
 				"statement": ""
 			},
 			"5": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"6": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"7": {
@@ -167,7 +167,7 @@
 				"statement": ""
 			},
 			"8": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"9": {
@@ -175,7 +175,7 @@
 				"statement": ""
 			},
 			"10": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"11": {
@@ -191,7 +191,7 @@
 				"statement": ""
 			},
 			"14": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"15": {
@@ -225,11 +225,11 @@
 				"statement": ""
 			},
 			"5": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"6": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"7": {
@@ -237,11 +237,11 @@
 				"statement": ""
 			},
 			"8": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"9": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"10": {
@@ -261,11 +261,11 @@
 				"statement": ""
 			},
 			"14": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"15": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"16": {
@@ -295,11 +295,11 @@
 				"statement": ""
 			},
 			"5": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"6": {
-				"selection": "d",
+				"selection": "a",
 				"statement": ""
 			},
 			"7": {
@@ -307,11 +307,11 @@
 				"statement": ""
 			},
 			"8": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"9": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"10": {
@@ -331,7 +331,7 @@
 				"statement": ""
 			},
 			"14": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"15": {
@@ -361,15 +361,15 @@
 				"statement": ""
 			},
 			"4": {
-				"selection": "b",
-				"statement": ""
-			},
-			"5": {
 				"selection": "c",
 				"statement": ""
 			},
-			"6": {
+			"5": {
 				"selection": "a",
+				"statement": ""
+			},
+			"6": {
+				"selection": "b",
 				"statement": ""
 			},
 			"7": {
@@ -377,11 +377,11 @@
 				"statement": ""
 			},
 			"8": {
-				"selection": "b",
+				"selection": "c",
 				"statement": ""
 			},
 			"9": {
-				"selection": "c",
+				"selection": "b",
 				"statement": ""
 			},
 			"10": {
@@ -401,7 +401,7 @@
 				"statement": ""
 			},
 			"14": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"15": {
@@ -423,11 +423,11 @@
 				"statement": ""
 			},
 			"2": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"3": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"4": {
@@ -435,7 +435,7 @@
 				"statement": ""
 			},
 			"5": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"6": {
@@ -443,39 +443,39 @@
 				"statement": ""
 			},
 			"7": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"8": {
-				"selection": "b",
+				"selection": "c",
 				"statement": ""
 			},
 			"9": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"10": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"11": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"12": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"13": {
-				"selection": "c",
+				"selection": "b",
 				"statement": ""
 			},
 			"14": {
-				"selection": "c",
+				"selection": "b",
 				"statement": ""
 			},
 			"15": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"16": {
@@ -505,15 +505,15 @@
 				"statement": ""
 			},
 			"5": {
-				"selection": "c",
-				"statement": ""
-			},
-			"6": {
 				"selection": "a",
 				"statement": ""
 			},
-			"7": {
+			"6": {
 				"selection": "c",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
 				"statement": ""
 			},
 			"8": {
@@ -521,7 +521,7 @@
 				"statement": ""
 			},
 			"9": {
-				"selection": "b",
+				"selection": "c",
 				"statement": ""
 			},
 			"10": {
@@ -541,7 +541,7 @@
 				"statement": ""
 			},
 			"14": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"15": {
@@ -563,23 +563,23 @@
 				"statement": ""
 			},
 			"2": {
-				"selection": "c",
-				"statement": ""
-			},
-			"3": {
 				"selection": "a",
 				"statement": ""
 			},
-			"4": {
+			"3": {
 				"selection": "c",
 				"statement": ""
 			},
-			"5": {
+			"4": {
 				"selection": "b",
 				"statement": ""
 			},
-			"6": {
+			"5": {
 				"selection": "c",
+				"statement": ""
+			},
+			"6": {
+				"selection": "b",
 				"statement": ""
 			},
 			"7": {
@@ -587,15 +587,15 @@
 				"statement": ""
 			},
 			"8": {
-				"selection": "b",
-				"statement": ""
-			},
-			"9": {
 				"selection": "c",
 				"statement": ""
 			},
-			"10": {
+			"9": {
 				"selection": "a",
+				"statement": ""
+			},
+			"10": {
+				"selection": "c",
 				"statement": ""
 			},
 			"11": {
@@ -611,7 +611,7 @@
 				"statement": ""
 			},
 			"14": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"15": {
@@ -633,11 +633,11 @@
 				"statement": ""
 			},
 			"2": {
-				"selection": "c",
+				"selection": "b",
 				"statement": ""
 			},
 			"3": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"4": {
@@ -645,11 +645,11 @@
 				"statement": ""
 			},
 			"5": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"6": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"7": {
@@ -657,11 +657,11 @@
 				"statement": ""
 			},
 			"8": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"9": {
-				"selection": "b",
+				"selection": "c",
 				"statement": ""
 			},
 			"10": {
@@ -715,11 +715,11 @@
 				"statement": ""
 			},
 			"5": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"6": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"7": {
@@ -727,7 +727,7 @@
 				"statement": ""
 			},
 			"8": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"9": {
@@ -735,7 +735,7 @@
 				"statement": ""
 			},
 			"10": {
-				"selection": "b",
+				"selection": "a",
 				"statement": ""
 			},
 			"11": {
@@ -751,7 +751,7 @@
 				"statement": ""
 			},
 			"14": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"15": {
@@ -785,11 +785,11 @@
 				"statement": ""
 			},
 			"5": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"6": {
-				"selection": "a",
+				"selection": "b",
 				"statement": ""
 			},
 			"7": {
@@ -797,11 +797,11 @@
 				"statement": ""
 			},
 			"8": {
-				"selection": "d",
+				"selection": "a",
 				"statement": ""
 			},
 			"9": {
-				"selection": "a",
+				"selection": "c",
 				"statement": ""
 			},
 			"10": {
@@ -821,7 +821,7 @@
 				"statement": ""
 			},
 			"14": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"15": {
@@ -843,11 +843,11 @@
 				"statement": ""
 			},
 			"2": {
-				"selection": "c",
+				"selection": "b",
 				"statement": ""
 			},
 			"3": {
-				"selection": "b",
+				"selection": "c",
 				"statement": ""
 			},
 			"4": {
@@ -855,15 +855,15 @@
 				"statement": ""
 			},
 			"5": {
-				"selection": "c",
-				"statement": ""
-			},
-			"6": {
 				"selection": "b",
 				"statement": ""
 			},
-			"7": {
+			"6": {
 				"selection": "c",
+				"statement": ""
+			},
+			"7": {
+				"selection": "b",
 				"statement": ""
 			},
 			"8": {
@@ -871,7 +871,7 @@
 				"statement": ""
 			},
 			"9": {
-				"selection": "b",
+				"selection": "c",
 				"statement": ""
 			},
 			"10": {
@@ -891,7 +891,7 @@
 				"statement": ""
 			},
 			"14": {
-				"selection": "c",
+				"selection": "a",
 				"statement": ""
 			},
 			"15": {
